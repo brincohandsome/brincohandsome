@@ -5,7 +5,7 @@ You can call me Brian (✿ ͡° ͜ʖ ͡°), YoonHyuk ( ͡° ͜ʖ ͡°) 👉,
 
 
 I'm always excited to talk about building cool apps, playing the guitar, or cooking Asian food!
-Want to get in touch? Contact me at brinco@umich.edu or message me on [LinkedIn](https://www.linkedin.com/in/yoonhyuklee/)! Go Blue!
+Want to get in touch? Contact me at brinco@umich.edu or message me on [LinkedIn](https://www.linkedin.com/in/yoonhyuklee/)! Go Blue 〽️! 
 
 
 
