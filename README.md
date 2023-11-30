@@ -1,11 +1,12 @@
-### Hi there 👋
+### 🙌 안녕(hello)!!!! 🙌
+
+# You can call me Brian, YoonHyuk, or even Brinco! I am a Junior studying computer science at University of Michigan with interests in web development 🕸️, hardware-software integration 🤓, and planes ✈️!
 
 <!--
 **brincohandsome/brincohandsome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
-asdasd
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
