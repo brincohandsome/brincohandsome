@@ -1,6 +1,6 @@
 ### 🙌 Welcome to my GitHub! 🙌
 
-You can call me Brian (✿ ͡° ͜ʖ ͡°), YoonHyuk ( ͡° ͜ʖ ͡°) 👉, or even Brinco [̲̅$̲̅( ͡° ͜ʖ ͡°)̲̅$̲̅] ! I am a Senior studying computer science at University of Michigan with interests in web development 🕸️, hardware-software integration 🤓, and planes ✈️.
+You can call me Brian (✿ ͡° ͜ʖ ͡°), YoonHyuk ( ͡° ͜ʖ ͡°) 👉, or even Brinco [̲̅$̲̅( ͡° ͜ʖ ͡°)̲̅$̲̅] ! I am a senior studying computer science at University of Michigan with interests in web development 🕸️, hardware-software integration 🤓, and planes ✈️.
 
 
 
